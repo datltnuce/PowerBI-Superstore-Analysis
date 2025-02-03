@@ -5,6 +5,20 @@
 ## I. Introduction
 Superstore is a retail business with the goal of providing diverse and high-quality products to its customers. To develop a strategy for market expansion and identify strategic products, analyzing the current business performance is crucial. This involves gaining insights into revenue trends, profitability, operational efficiency by region, product categories, and customer segments. By leveraging existing data, Superstore can make data-driven decisions to optimize resources, increase profitability, and maintain a competitive edge in the market.
 
+### Recommendations:
+**For Product Categories:**
+- ***Optimize Furniture**:* Review production and operating costs for ***Chairs*** and ***Tables**.*
+- Expand ***Office Supplies*.**
+
+**Reduce Return Rates:**
+- ***Improve shipping quality**:* Review for ***First Class*** and ***Same Day*** deliveries.
+- ***Evaluate high-return products**:* Focus on subcategories like ***Copiers.***
+
+**Regional Revenue Growth:**
+- Focus on American markets.
+- Prioritize optimization efforts in key markets like the ***U.S. Mexico, and Brazil.***
+- Increase investment in high-potential cities like ***Mexico City*** and ***San Salvador.***
+
 ### Dataset
 
 - **Orders**: A table that stores transaction information.
@@ -73,12 +87,7 @@ Brainstorming
 ### View 1: Overview Analysis
 ![Image](https://github.com/user-attachments/assets/e7385925-4d5e-4f3f-939b-bb6e4275f710)
 
-### View 2: Return Analysis
-![Image](https://github.com/user-attachments/assets/9c16374f-2745-4398-95a6-2306eb4e4f9d)
-
-## IV. Insights and recommendations:
-### Insights
-**Sales and Profit:**
+### Insights:
 - ***Total Sales**:* $32 billion with a ***profit ratio*** of 14.3%.
 - ***Technology*** dominates with $25.85 billion in sales and a profit ratio of 15.44%.
 - ***Office Supplies*** has the highest profit ratio (30.35%) despite lower sales.
@@ -90,24 +99,12 @@ Brainstorming
 
 **Subcategories with negative profit**
 - Significant losses: ***Chairs and Tables*** ***(same $382 million)***, profit ratio -41.56%.
+### View 2: Return Analysis
+![Image](https://github.com/user-attachments/assets/9c16374f-2745-4398-95a6-2306eb4e4f9d)
 
-**Return rate:**
+### Insights:
 - The return rate is ***4.7%***, which is relatively high and could impact overall profit.
 - ***Segment: Home Office*** has the highest return rate *(**35.38%**)*, followed by ***Corporate** (**33.21%**)* and ***Consumer** (**31.41%**).*
 - ***Ship Mode: First Class*** and ***Same Day*** shipping methods have the highest return rates (6.38% and 6.47%, respectively).
 - ***Region: North Asia,** **West*** regions have the highest return rates (13.83% and 11.73%, respectively) and ***Southeast Asia*** has the lowest return rate (3.63%).
 - ***Subcategory:* *Copiers*** is the highest.
-
-### Recommendations:
-**For Product Categories:**
-- ***Optimize Furniture**:* Review production and operating costs for ***Chairs*** and ***Tables**.*
-- Expand ***Office Supplies*.**
-
-**Reduce Return Rates:**
-- ***Improve shipping quality**:* Review for ***First Class*** and ***Same Day*** deliveries.
-- ***Evaluate high-return products**:* Focus on subcategories like ***Copiers.***
-
-**Regional Revenue Growth:**
-- Focus on American markets.
-- Prioritize optimization efforts in key markets like the ***U.S. Mexico, and Brazil.***
-- Increase investment in high-potential cities like ***Mexico City*** and ***San Salvador.***
